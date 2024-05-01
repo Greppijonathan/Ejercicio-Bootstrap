@@ -1,0 +1,42 @@
+#lorem0 {
+    background-color: darkkhaki;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#lorem1 {
+    background-color: aqua;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#lorem2 {
+    background-color: orange;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#lorem3 {
+    background-color: aquamarine;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#lorem4 {
+    background-color: darkcyan;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.footerCont {
+    height: 150px;
+    background-color: aqua;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+}
